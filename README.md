@@ -1,1 +1,1 @@
-![# Free Knowledge Network](https://github.com/MonuMentor/FKN/img/FKN.jpg "Free Knowledge Network")
+![# Free Knowledge Network](https://github.com/MonuMentor/FKN/blob/master/img/FKN.jpg "Free Knowledge Network")
